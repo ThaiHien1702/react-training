@@ -1,9 +1,9 @@
 import { Component } from "react";
 
-class Navbar extends Component{
-    render(){
-        return(
-            
+class Navbar extends Component {
+    render() {
+        return (
+
             <nav class="navbar navbar-inverse">
                 <a class="navbar-brand" href="#">Title</a>
                 <ul class="nav navbar-nav">
@@ -15,7 +15,7 @@ class Navbar extends Component{
                     </li>
                 </ul>
             </nav>
-            
+
         )
     }
 }
