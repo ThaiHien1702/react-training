@@ -4,10 +4,10 @@ class Navbar extends Component {
     render() {
         return (
 
-            <nav class="navbar navbar-inverse">
-                <a class="navbar-brand" href="#">Title</a>
-                <ul class="nav navbar-nav">
-                    <li class="active">
+            <nav className="navbar navbar-inverse">
+                <a className="navbar-brand" href="#">Title</a>
+                <ul className="nav navbar-nav">
+                    <li className="active">
                         <a href="#">Home</a>
                     </li>
                     <li>
